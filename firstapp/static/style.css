@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(0, 191, 255);
+}
+h1{
+    color: green;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    justify-content: center;
+}
+h2{
+    color: blue;
+    font-family: 'Times New Roman', serif;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+}
